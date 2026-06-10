@@ -1,12 +1,12 @@
 {
-    "version": "0.11.1",
+    "version": "0.12.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/infobloxopen/apx/releases/download/v0.11.1/apx_0.11.1_windows_amd64.zip",
+            "url": "https://github.com/infobloxopen/apx/releases/download/v0.12.0/apx_0.12.0_windows_amd64.zip",
             "bin": [
                 "apx.exe"
             ],
-            "hash": "5b86c134a596a2bb8ec51ed6675e9af01f726baf03b7e6f1d44f44dc89c0afb2"
+            "hash": "0e9a887768ccfac647e6a4fc6cfc1dd9c2977ff4140d06164f97924c287d1679"
         }
     },
     "homepage": "https://github.com/infobloxopen/apx",
